@@ -1,4 +1,4 @@
-## Hi there 👋<h1 align="center">Hi 👋, I'm Dipson Adhikari</h1>
+<h1 align="center">Hi 👋, I'm Dipson Adhikari</h1>
 <h3 align="center">A student studying Bsc.CSIT</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipson-adhikari" alt="dipson-adhikari" /></a> </p>
@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dipson chhetri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipson chhetri" height="30" width="40" /></a>
 <a href="https://instagram.com/just_deepson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_deepson" height="30" width="40" /></a>
 </p>
 
