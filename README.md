@@ -92,15 +92,6 @@ Web applications built while learning and experimenting with:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
