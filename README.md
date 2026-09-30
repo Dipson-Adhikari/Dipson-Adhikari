@@ -61,9 +61,7 @@ I enjoy building practical projects, experimenting with new technologies, and tu
 
 ### 🌐 Web Development
 
-Building web applications while learning and experimenting with different technologies.
-
-**Technologies**
+Building web applications while learning and experimenting with:
 
 * HTML & CSS
 * JavaScript
@@ -72,18 +70,14 @@ Building web applications while learning and experimenting with different techno
 * ASP.NET Core
 * MERN Stack
 
-**Focus**
-
-`Frontend` · `Backend` · `Database` · `UI/UX`
+**Focus:** Full-stack development · Backend · Databases · UI/UX
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
@@ -91,11 +85,8 @@ Building web applications while learning and experimenting with different techno
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
 </p>
 
 ---
@@ -103,9 +94,7 @@ Building web applications while learning and experimenting with different techno
 ## 🐍 Contribution Activity
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
 </p>
 
 ---
@@ -127,9 +116,7 @@ Building web applications while learning and experimenting with different techno
 ## 🌱 Currently Exploring
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,dotnet" />
-
 </p>
 
 ---
