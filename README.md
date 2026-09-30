@@ -87,13 +87,12 @@ Building web applications while learning and experimenting with:
 ## 🎯 Current Goals
 
 ```text
-☑ Improve full-stack development skills
-☑ Build practical web applications
-☑ Improve UI/UX design skills
-☑ Explore backend development
-☑ Develop more Roblox games
-☐ Contribute to open-source projects
-☐ Build larger full-stack applications
+ Improve full-stack development skills
+ Build practical web applications
+ Improve UI/UX design skills
+ Explore backend development
+ Contribute to open-source projects
+ Build larger full-stack applications
 ```
 
 ---
