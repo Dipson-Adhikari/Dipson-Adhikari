@@ -53,22 +53,6 @@ I enjoy building practical projects, learning new technologies, and turning idea
 
 <table>
 <tr>
-<td width="50%">
-
-### 🎮 Obby Rush
-
-A space-themed Roblox obstacle course featuring:
-
-* 🏃 Increasing difficulty
-* 🟢 Checkpoints
-* 🔴 Dangerous platforms
-* 🔵 Safe platforms
-* 🔄 Moving & rotating platforms
-* 💀 Falling hazards
-
-**Tech:** Roblox Studio · Lua
-
-</td>
 
 <td width="50%">
 
@@ -99,13 +83,6 @@ Building web applications while learning and experimenting with:
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ## 🎯 Current Goals
 
